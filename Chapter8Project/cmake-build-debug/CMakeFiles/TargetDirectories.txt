@@ -1,0 +1,3 @@
+C:/Users/Kimball/CLionProjects/CS142/Chapter8Project/cmake-build-debug/CMakeFiles/Chapter8Project.dir
+C:/Users/Kimball/CLionProjects/CS142/Chapter8Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kimball/CLionProjects/CS142/Chapter8Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
